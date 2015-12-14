@@ -1,3 +1,5 @@
 nguage: objective-c
 xcode_project: /Users/sarah/Documents/xcode/hello3 # path to your xcodeproj folder
 xcode_scheme: hello3
+osx_image: xcode7.1
+
